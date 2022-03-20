@@ -206,6 +206,7 @@ connection.onCompletion(
         "typescript",
         "typescriptreact",
         "typescript.tsx",
+        "html.mustache",
       ];
 
       if (htmlLanguages.includes(languageId)) {
