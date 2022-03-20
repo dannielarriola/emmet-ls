@@ -1,5 +1,5 @@
 {
-	"name": "emmet-ls",
+	"name": "@dannielarriola/emmet-ls",
 	"description": "emmet support by LSP",
 	"version": "0.2.2",
 	"author": "aca",
